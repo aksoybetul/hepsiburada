@@ -1,0 +1,837 @@
+2022-02-07 01:07:09,846 ERROR [Log] login() FAILED with cause : Error! ==> expected: <true> but was: <false> 
+2022-02-07 01:09:12,362 ERROR [Log] login() FAILED with cause : Error! ==> expected: <true> but was: <false> 
+2022-02-07 01:12:30,717 ERROR [Log] login() FAILED with cause : null 
+2022-02-07 01:15:07,809 ERROR [Log] login() FAILED with cause : null 
+2022-02-07 01:18:05,722 ERROR [Log] login() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="Hoş geldiniz"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59989}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 843ac5a579291871d8268f4bb0c86f80
+*** Element info: {Using=xpath, value=//*[text()="Hoş geldiniz"]} 
+2022-02-07 01:21:48,510 ERROR [Log] login() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='hb-AxhVE dVER scdvp0pq943']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62342}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8e659d1a1a5480c339f12a99036d9557
+*** Element info: {Using=xpath, value=//*[@class='hb-AxhVE dVER scdvp0pq943']} 
+2022-02-07 01:24:13,090 ERROR [Log] login() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='hb-AxhVE dVER scdvp0pq943']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62526}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1940b31280f058799413742c4e36e67f
+*** Element info: {Using=xpath, value=//*[@class='hb-AxhVE dVER scdvp0pq943']} 
+2022-02-07 01:25:24,412 ERROR [Log] login() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="Hoş geldiniz"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62767}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cdf546a131e70a8d844a42149af9f9b6
+*** Element info: {Using=xpath, value=//*[text()="Hoş geldiniz"]} 
+2022-02-07 01:26:57,156 ERROR [Log] login() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="Hoş geldiniz"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51168}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 251e1b076c4d3be47a1284fc924d10af
+*** Element info: {Using=xpath, value=//*[text()="Hoş geldiniz"]} 
+2022-02-07 01:28:50,043 ERROR [Log] login() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'Hoş geldiniz')]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51335}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: de7f1571fe879519655ff12a7008ad27
+*** Element info: {Using=xpath, value=//div[contains(text(),'Hoş geldiniz')]} 
+2022-02-07 01:30:52,092 ERROR [Log] login() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'Hoş geldiniz')]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51604}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b1de3ea851913d3a23ad6a28de97a1bd
+*** Element info: {Using=xpath, value=//div[contains(text(),'Hoş geldiniz')]} 
+2022-02-07 01:32:28,654 ERROR [Log] login() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="Farklı hesap kullan"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56760}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 72ffccb3fc0736f8e432c49816da587a
+*** Element info: {Using=xpath, value=//*[text()="Farklı hesap kullan"]} 
+2022-02-07 01:38:25,050 ERROR [Log] login() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="sf-OldMyAccount-1k66b"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57130}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4019547dc4ebb8048c713757b1d70a0c
+*** Element info: {Using=xpath, value=//*[@class="sf-OldMyAccount-1k66b"]} 
+2022-02-07 01:39:42,837 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51671}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 05bf75ddaa9ebbac18f7dcbc1ce1df9a 
+2022-02-07 01:40:51,990 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51887}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 387d61f2aa42576798c5242acbf98d41 
+2022-02-07 01:42:04,261 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52018}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 73bc9a2563637e14fa078a32535abb05 
+2022-02-07 01:42:55,061 ERROR [Log] login() FAILED with cause : unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52150}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 43994774a5dddbcd14b3dba40b544eb3 
+2022-02-07 01:43:25,005 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52175}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f350476c2b01fe041809f60b5183f3cf 
+2022-02-07 02:00:39,400 INFO  [Log] login() PASSED 
+2022-02-07 02:34:13,262 INFO  [Log] login() PASSED 
+2022-02-07 02:34:13,391 ERROR [Log] searchProduct() FAILED with cause : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: driver.version: RemoteWebDriver 
+2022-02-07 02:36:31,993 INFO  [Log] login() PASSED 
+2022-02-07 02:36:32,025 ERROR [Log] searchProduct() FAILED with cause : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: driver.version: RemoteWebDriver 
+2022-02-07 02:38:35,031 INFO  [Log] login() PASSED 
+2022-02-07 02:38:35,104 ERROR [Log] searchProduct() FAILED with cause : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: driver.version: RemoteWebDriver 
+2022-02-07 02:39:36,387 ERROR [Log] login() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@title='Hepsiburada']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56419}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4c5ac22bf5f94a65b4295d2e45eab806
+*** Element info: {Using=xpath, value=//*[@title='Hepsiburada']} 
+2022-02-07 02:39:36,479 ERROR [Log] searchProduct() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="desktopOldAutosuggestTheme-input"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56419}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4c5ac22bf5f94a65b4295d2e45eab806
+*** Element info: {Using=xpath, value=//*[@class="desktopOldAutosuggestTheme-input"]} 
+2022-02-07 02:41:56,996 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56498}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f57edf0547666ecfa8a26a902ee3ea56 
+2022-02-07 02:41:57,412 ERROR [Log] searchProduct() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="searchResultSummaryBar-mainText"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56498}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f57edf0547666ecfa8a26a902ee3ea56
+*** Element info: {Using=xpath, value=//*[@class="searchResultSummaryBar-mainText"]} 
+2022-02-07 02:43:53,431 INFO  [Log] login() PASSED 
+2022-02-07 02:43:54,754 ERROR [Log] searchProduct() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="searchResultSummaryBar-mainText"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56695}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d3b41d93e609279f7e11da1552db6fa8
+*** Element info: {Using=xpath, value=//*[@class="searchResultSummaryBar-mainText"]} 
+2022-02-07 02:45:26,493 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62439}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 76850bf9a2bc271b9f37ebb76402fcbb 
+2022-02-07 02:45:26,820 ERROR [Log] searchProduct() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="searchResultSummaryBar-mainText"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62439}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 76850bf9a2bc271b9f37ebb76402fcbb
+*** Element info: {Using=xpath, value=//*[@class="searchResultSummaryBar-mainText"]} 
+2022-02-07 03:20:57,821 ERROR [Log] login() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@title='Hepsiburada']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49742}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 19c50968bf1c12014e2a39969f130306
+*** Element info: {Using=xpath, value=//*[@title='Hepsiburada']} 
+2022-02-07 03:21:02,171 ERROR [Log] searchProduct() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="desktopOldAutosuggestTheme-input"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49758}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b22b53000f6c1de7db245de36a712919
+*** Element info: {Using=xpath, value=//*[@class="desktopOldAutosuggestTheme-input"]} 
+2022-02-07 03:21:37,234 ERROR [Log] login() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@title='Hepsiburada']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49793}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f66f084214803ae7185b59c0d4e759ae
+*** Element info: {Using=xpath, value=//*[@title='Hepsiburada']} 
+2022-02-07 03:21:39,661 ERROR [Log] searchProduct() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="desktopOldAutosuggestTheme-input"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49806}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 562acab9cb46c8464c97bf521c2b14ee
+*** Element info: {Using=xpath, value=//*[@class="desktopOldAutosuggestTheme-input"]} 
+2022-02-07 03:23:46,956 INFO  [Log] login() PASSED 
+2022-02-07 03:23:47,106 ERROR [Log] searchProduct() FAILED with cause : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: driver.version: RemoteWebDriver 
+2022-02-07 03:26:19,043 INFO  [Log] login() PASSED 
+2022-02-07 03:26:19,166 ERROR [Log] searchProduct() FAILED with cause : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: driver.version: RemoteWebDriver 
+2022-02-07 03:29:12,837 INFO  [Log] login() PASSED 
+2022-02-07 03:29:17,962 ERROR [Log] searchProduct() FAILED with cause : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: driver.version: RemoteWebDriver 
+2022-02-07 03:32:00,674 INFO  [Log] login() PASSED 
+2022-02-07 03:32:06,413 ERROR [Log] searchProduct() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="searchResultSummaryBar-mainText"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64746}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c37d4f3b5890e412a00a36a7bc2968f
+*** Element info: {Using=xpath, value=//*[@class="searchResultSummaryBar-mainText"]} 
+2022-02-07 03:34:52,516 ERROR [Log] login() FAILED with cause : Error! ==> expected: <true> but was: <false> 
+2022-02-07 03:37:07,155 ERROR [Log] searchProduct() FAILED with cause : You are not on the products page! ==> expected: <true> but was: <false> 
+2022-02-07 03:39:02,807 INFO  [Log] login() PASSED 
+2022-02-07 03:39:50,750 ERROR [Log] searchProduct() FAILED with cause : You are not on the products page! ==> expected: <true> but was: <false> 
+2022-02-07 03:41:54,384 INFO  [Log] login() PASSED 
+2022-02-07 03:41:59,741 ERROR [Log] searchProduct() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="searchResultSummaryBar-mainText"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58117}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: edacd414b585e6ceb9c84074139ac767
+*** Element info: {Using=xpath, value=//*[@class="searchResultSummaryBar-mainText"]} 
+2022-02-07 03:45:21,214 INFO  [Log] login() PASSED 
+2022-02-07 03:45:26,612 ERROR [Log] searchProduct() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#SearchResultSummary"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51471}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d1f21392444ad073102e4a8b70473184
+*** Element info: {Using=id, value=SearchResultSummary} 
+2022-02-07 03:48:08,501 ERROR [Log] login() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(),'Üye ol')]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52182}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 62606f0cfb8495f0486c3b0ec528e291
+*** Element info: {Using=xpath, value=//*[contains(text(),'Üye ol')]} 
+2022-02-07 03:48:13,544 ERROR [Log] searchProduct() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="desktopOldAutosuggestTheme-input"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52182}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 62606f0cfb8495f0486c3b0ec528e291
+*** Element info: {Using=xpath, value=//*[@class="desktopOldAutosuggestTheme-input"]} 
+2022-02-07 03:49:33,302 INFO  [Log] login() PASSED 
+2022-02-07 03:49:38,672 ERROR [Log] searchProduct() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="horizontalSortingBar-toggle"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63944}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 510ce20935f66750e4ab16cb0c8c9b66
+*** Element info: {Using=xpath, value=//*[@class="horizontalSortingBar-toggle"]} 
+2022-02-07 03:51:41,428 INFO  [Log] login() PASSED 
+2022-02-07 03:51:56,908 ERROR [Log] searchProduct() FAILED with cause : Index 1 out of bounds for length 1 
+2022-02-07 03:54:56,373 ERROR [Log] login() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(),'Üye ol')]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64750}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 93927e7e1a93f872de7e7ef70b61c369
+*** Element info: {Using=xpath, value=//*[contains(text(),'Üye ol')]} 
+2022-02-07 03:55:01,426 ERROR [Log] searchProduct() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="desktopOldAutosuggestTheme-input"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64750}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 93927e7e1a93f872de7e7ef70b61c369
+*** Element info: {Using=xpath, value=//*[@class="desktopOldAutosuggestTheme-input"]} 
+2022-02-07 03:56:01,841 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59805}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a65540f753614f07d82757bc06f7975 
+2022-02-07 03:56:49,271 ERROR [Log] searchProduct() FAILED with cause : chrome not reachable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59805}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a65540f753614f07d82757bc06f7975
+*** Element info: {Using=xpath, value=//*[@class="desktopOldAutosuggestTheme-input"]} 
+2022-02-07 03:58:25,918 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52880}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a817694f0dd29b48f5c64904d3c135a5 
+2022-02-07 03:58:41,687 INFO  [Log] searchProduct() PASSED 
+2022-02-07 04:06:10,941 INFO  [Log] login() PASSED 
+2022-02-07 04:06:31,830 ERROR [Log] searchProduct() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="seller"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52298}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf151c0c9f53978952685339f818d2a9
+*** Element info: {Using=xpath, value=//*[@class="seller"]} 
+2022-02-07 04:08:55,060 INFO  [Log] login() PASSED 
+2022-02-07 04:09:16,652 ERROR [Log] searchProduct() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"span.seller"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52660}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a28547bbb7e4e778fbc210d3201ff7ef
+*** Element info: {Using=css selector, value=span.seller} 
+2022-02-07 04:11:03,438 INFO  [Log] login() PASSED 
+2022-02-07 04:11:24,311 INFO  [Log] searchProduct() PASSED 
+2022-02-07 04:14:04,924 INFO  [Log] login() PASSED 
+2022-02-07 04:14:26,338 ERROR [Log] searchProduct() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="turkishLira"]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55438}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 22d9bf2b1cac5253ad0401bd357e7769
+*** Element info: {Using=xpath, value=//*[@class="turkishLira"]} 
+2022-02-07 12:17:58,684 ERROR [Log] login() FAILED with cause : Error! ==> expected: <true> but was: <false> 
+2022-02-07 12:18:21,271 INFO  [Log] searchProduct() PASSED 
+2022-02-07 12:18:26,297 ERROR [Log] addToCart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#addToCart"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60224}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fe6414e9068d01f139ff896bc0979dfb
+*** Element info: {Using=id, value=addToCart} 
+2022-02-07 12:25:40,434 INFO  [Log] login() PASSED 
+2022-02-07 12:26:11,337 ERROR [Log] searchProduct() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@class="turkishLira"] (tried for 10 second(s) with 500 milliseconds interval) 
+2022-02-07 12:26:26,820 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.id: addToCart (tried for 10 second(s) with 500 milliseconds interval) 
+2022-02-07 12:31:31,455 INFO  [Log] login() PASSED 
+2022-02-07 12:32:02,552 ERROR [Log] searchProduct() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: (//*[@class="brand-name"])[2] (tried for 10 second(s) with 500 milliseconds interval) 
+2022-02-07 12:32:18,044 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.id: addToCart (tried for 10 second(s) with 500 milliseconds interval) 
+2022-02-07 12:40:03,293 INFO  [Log] login() PASSED 
+2022-02-07 12:40:36,330 ERROR [Log] searchProduct() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.cssSelector: span.seller (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 12:40:51,825 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.id: addToCart (tried for 10 second(s) with 500 milliseconds interval) 
+2022-02-07 12:45:56,413 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51736}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1fb651311e03622d5463a5bcc4a74783 
+2022-02-07 12:46:12,942 ERROR [Log] searchProduct() FAILED with cause : element click intercepted: Element <li class="productListContent-item" id="i1">...</li> is not clickable at point (591, 658). Other element would receive the click: <div>...</div>
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51736}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1fb651311e03622d5463a5bcc4a74783 
+2022-02-07 12:46:17,965 ERROR [Log] addToCart() FAILED with cause : null 
+2022-02-07 12:47:35,371 INFO  [Log] login() PASSED 
+2022-02-07 12:47:56,108 INFO  [Log] searchProduct() PASSED 
+2022-02-07 12:48:11,155 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.id: addToCart (tried for 10 second(s) with 500 milliseconds interval) 
+2022-02-07 12:50:40,799 INFO  [Log] login() PASSED 
+2022-02-07 12:51:01,536 INFO  [Log] searchProduct() PASSED 
+2022-02-07 12:51:18,608 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.id: addToCart (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 12:54:01,380 INFO  [Log] login() PASSED 
+2022-02-07 12:54:22,100 INFO  [Log] searchProduct() PASSED 
+2022-02-07 12:54:39,317 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: (//*[@id="addToCart"])[1] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 12:56:12,070 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54433}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f48a112dc85f79a0faaf8e1846efcb21 
+2022-02-07 12:56:32,826 INFO  [Log] searchProduct() PASSED 
+2022-02-07 12:56:49,910 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.id: addToCart (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 13:28:13,745 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53160}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cd72dc89dacef0cbd51d242a4bf0b669 
+2022-02-07 13:28:35,728 INFO  [Log] searchProduct() PASSED 
+2022-02-07 13:28:53,195 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.id: addToCart (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 13:29:10,286 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.id: continue_step_btn (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 13:30:32,527 INFO  [Log] login() PASSED 
+2022-02-07 13:30:53,293 INFO  [Log] searchProduct() PASSED 
+2022-02-07 13:31:10,409 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.id: addToCart (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 13:31:27,919 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.id: continue_step_btn (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 13:35:00,604 INFO  [Log] login() PASSED 
+2022-02-07 13:35:21,396 INFO  [Log] searchProduct() PASSED 
+2022-02-07 13:35:38,662 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.id: addToCart (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 13:35:55,780 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.id: continue_step_btn (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 13:37:52,337 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54470}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: db0cfe1f63d5be7a078a46259f35da3c 
+2022-02-07 13:38:13,669 INFO  [Log] searchProduct() PASSED 
+2022-02-07 13:38:55,296 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.id: addToCart (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 13:39:12,524 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.id: continue_step_btn (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 13:43:53,596 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52159}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e0c824d675290c2dda26db9d30dde2ce 
+2022-02-07 13:44:14,315 INFO  [Log] searchProduct() PASSED 
+2022-02-07 13:44:19,337 ERROR [Log] addToCart() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"(//*[text()='Sepete Ekle'])[1]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52159}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e0c824d675290c2dda26db9d30dde2ce
+*** Element info: {Using=xpath, value=(//*[text()='Sepete Ekle'])[1]} 
+2022-02-07 13:44:36,361 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.id: continue_step_btn (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 13:49:01,414 INFO  [Log] login() PASSED 
+2022-02-07 13:49:22,040 INFO  [Log] searchProduct() PASSED 
+2022-02-07 13:49:27,167 ERROR [Log] addToCart() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"(//*[text()='Sepete Ekle'])[1]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63575}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 22b878ed066acc90a6ea137bd41816c0
+*** Element info: {Using=xpath, value=(//*[text()='Sepete Ekle'])[1]} 
+2022-02-07 13:49:44,606 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.id: continue_step_btn (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 14:16:33,261 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58857}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8234042db678fd5bc7fe3e70818cc86a 
+2022-02-07 14:16:49,801 ERROR [Log] searchProduct() FAILED with cause : element click intercepted: Element <li class="productListContent-item" id="i1">...</li> is not clickable at point (591, 658). Other element would receive the click: <div>...</div>
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58857}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8234042db678fd5bc7fe3e70818cc86a 
+2022-02-07 14:16:54,816 ERROR [Log] addToCart() FAILED with cause : null 
+2022-02-07 14:17:12,064 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 14:19:37,043 INFO  [Log] login() PASSED 
+2022-02-07 14:19:57,795 INFO  [Log] searchProduct() PASSED 
+2022-02-07 14:20:02,871 ERROR [Log] addToCart() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='button big with-icon']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60891}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4b7a0cdf623f6c7f7393a0a039a2066c
+*** Element info: {Using=xpath, value=//button[@class='button big with-icon']} 
+2022-02-07 14:20:20,315 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 14:29:39,787 INFO  [Log] login() PASSED 
+2022-02-07 14:30:01,536 INFO  [Log] searchProduct() PASSED 
+2022-02-07 14:30:18,874 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //button[@class='button big with-icon'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 14:30:36,436 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 14:32:10,104 INFO  [Log] login() PASSED 
+2022-02-07 14:32:30,753 INFO  [Log] searchProduct() PASSED 
+2022-02-07 14:32:47,879 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='addToCartButton'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 14:33:05,227 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 14:36:52,715 INFO  [Log] login() PASSED 
+2022-02-07 14:37:13,401 INFO  [Log] searchProduct() PASSED 
+2022-02-07 14:37:30,644 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='addToCartButton'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 14:37:47,969 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 14:43:59,984 INFO  [Log] login() PASSED 
+2022-02-07 14:44:21,014 INFO  [Log] searchProduct() PASSED 
+2022-02-07 14:44:38,096 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='addToCartButton'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 14:44:55,423 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 14:53:18,104 INFO  [Log] login() PASSED 
+2022-02-07 14:53:39,142 INFO  [Log] searchProduct() PASSED 
+2022-02-07 14:53:44,992 ERROR [Log] addToCart() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(@class,"popoverCloseButton")]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59212}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c575fe91d7986b2b0cfdb189e4a58288
+*** Element info: {Using=xpath, value=//*[contains(@class,"popoverCloseButton")]} 
+2022-02-07 14:54:03,409 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 14:55:44,032 INFO  [Log] login() PASSED 
+2022-02-07 14:56:05,236 INFO  [Log] searchProduct() PASSED 
+2022-02-07 14:56:10,497 ERROR [Log] addToCart() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(@class,"popoverCloseButton")]"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59683}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a666b83c0c5c0e8ddb98afc331df18d
+*** Element info: {Using=xpath, value=//*[contains(@class,"popoverCloseButton")]} 
+2022-02-07 14:56:28,213 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 14:57:38,587 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60027}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6fc86f24aed86784eaba759fc12086b8 
+2022-02-07 14:57:59,535 INFO  [Log] searchProduct() PASSED 
+2022-02-07 14:58:17,101 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='addToCartButton'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 14:58:34,394 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:13:02,229 INFO  [Log] login() PASSED 
+2022-02-07 15:13:22,996 INFO  [Log] searchProduct() PASSED 
+2022-02-07 15:13:40,218 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='addToCartButton'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:13:57,501 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:16:03,426 ERROR [Log] login() FAILED with cause : Error! ==> expected: <true> but was: <false> 
+2022-02-07 15:16:24,037 INFO  [Log] searchProduct() PASSED 
+2022-02-07 15:16:41,324 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='addToCartButton'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:18:03,362 INFO  [Log] login() PASSED 
+2022-02-07 15:18:27,921 INFO  [Log] searchProduct() PASSED 
+2022-02-07 15:18:45,095 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='addToCartButton'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:19:02,405 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:21:48,986 INFO  [Log] login() PASSED 
+2022-02-07 15:22:10,802 INFO  [Log] searchProduct() PASSED 
+2022-02-07 15:22:28,203 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='addToCartButton'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:22:45,611 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:24:31,831 INFO  [Log] login() PASSED 
+2022-02-07 15:24:52,599 INFO  [Log] searchProduct() PASSED 
+2022-02-07 15:25:09,882 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='addToCartButton'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:25:27,188 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:28:36,973 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53204}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 50e9e12f66be64efe8e2fea2c060f04c 
+2022-02-07 15:28:57,688 INFO  [Log] searchProduct() PASSED 
+2022-02-07 15:29:14,727 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.cssSelector: span.addToCartButton (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:29:32,043 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:33:01,324 INFO  [Log] login() PASSED 
+2022-02-07 15:33:22,113 INFO  [Log] searchProduct() PASSED 
+2022-02-07 15:33:32,366 ERROR [Log] addToCart() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Sepete git']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53680}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 71f383c1624622518d3a2826efc65703
+*** Element info: {Using=xpath, value=//*[text()='Sepete git']} 
+2022-02-07 15:33:49,686 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:38:35,473 INFO  [Log] login() PASSED 
+2022-02-07 15:38:56,165 INFO  [Log] searchProduct() PASSED 
+2022-02-07 15:39:13,231 ERROR [Log] addToCart() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.cssSelector: button[data-test-id='product-info-button'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:39:30,601 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:45:07,076 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59398}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0970756778c8e3ea8cf5fb3d1c0a46b3 
+2022-02-07 15:45:27,503 INFO  [Log] searchProduct() PASSED 
+2022-02-07 15:45:44,252 ERROR [Log] addToCart() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='delete_all_2uTds']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59398}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0970756778c8e3ea8cf5fb3d1c0a46b3
+*** Element info: {Using=xpath, value=//*[@class='delete_all_2uTds']} 
+2022-02-07 15:46:01,510 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:47:23,370 INFO  [Log] login() PASSED 
+2022-02-07 15:47:43,841 INFO  [Log] searchProduct() PASSED 
+2022-02-07 15:48:00,880 ERROR [Log] addToCart() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='delete_all_2uTds']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63782}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5de731af1e368d41b34cdf963b49e38a
+*** Element info: {Using=xpath, value=//*[@class='delete_all_2uTds']} 
+2022-02-07 15:48:18,400 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:52:32,145 INFO  [Log] login() PASSED 
+2022-02-07 15:52:52,562 INFO  [Log] searchProduct() PASSED 
+2022-02-07 15:53:09,305 ERROR [Log] addToCart() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='delete_all_2uTds']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64258}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: adc8937b43d50cec108e0fe2524783a9
+*** Element info: {Using=xpath, value=//*[@class='delete_all_2uTds']} 
+2022-02-07 15:53:26,798 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:55:07,907 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54329}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8c32be64dd6aa7b3e2cbf1a2d368e71 
+2022-02-07 15:55:28,308 INFO  [Log] searchProduct() PASSED 
+2022-02-07 15:55:48,671 ERROR [Log] addToCart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"button[data-test-id='product-info-button']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54329}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8c32be64dd6aa7b3e2cbf1a2d368e71
+*** Element info: {Using=css selector, value=button[data-test-id='product-info-button']} 
+2022-02-07 15:56:06,012 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 15:57:15,922 INFO  [Log] login() PASSED 
+2022-02-07 15:57:36,357 INFO  [Log] searchProduct() PASSED 
+2022-02-07 15:58:03,022 INFO  [Log] addToCart() PASSED 
+2022-02-07 15:58:20,133 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='continue_step_btn'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 16:00:01,960 INFO  [Log] login() PASSED 
+2022-02-07 16:00:22,418 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:00:54,152 INFO  [Log] addToCart() PASSED 
+2022-02-07 16:01:11,603 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[text()='Anında Havale'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 16:07:41,749 INFO  [Log] login() PASSED 
+2022-02-07 16:08:02,209 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:08:38,883 INFO  [Log] addToCart() PASSED 
+2022-02-07 16:08:56,427 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[text()='Anında Havale'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 16:11:07,555 INFO  [Log] login() PASSED 
+2022-02-07 16:11:28,034 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:12:04,873 INFO  [Log] addToCart() PASSED 
+2022-02-07 16:12:37,414 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[text()='Anında Havale'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 16:14:10,972 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50539}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ef1633a755c880cdacc221fbe09f4334 
+2022-02-07 16:14:31,438 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:15:09,285 INFO  [Log] addToCart() PASSED 
+2022-02-07 16:15:29,444 INFO  [Log] payment() PASSED 
+2022-02-07 16:17:45,949 INFO  [Log] login() PASSED 
+2022-02-07 16:18:06,520 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:18:43,301 INFO  [Log] addToCart() PASSED 
+2022-02-07 16:19:20,798 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[text()='Anında Havale'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 16:20:57,110 INFO  [Log] login() PASSED 
+2022-02-07 16:21:17,693 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:21:54,432 INFO  [Log] addToCart() PASSED 
+2022-02-07 16:22:36,773 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[text()='Anında Havale'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 16:26:47,530 INFO  [Log] login() PASSED 
+2022-02-07 16:27:07,985 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:27:44,872 INFO  [Log] addToCart() PASSED 
+2022-02-07 16:28:32,544 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[text()='Anında Havale'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 16:29:51,820 INFO  [Log] login() PASSED 
+2022-02-07 16:30:12,231 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:30:49,139 INFO  [Log] addToCart() PASSED 
+2022-02-07 16:31:14,508 INFO  [Log] payment() PASSED 
+2022-02-07 16:32:52,944 INFO  [Log] login() PASSED 
+2022-02-07 16:33:13,476 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:33:50,247 INFO  [Log] addToCart() PASSED 
+2022-02-07 16:34:27,825 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[text()='Anında Havale'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 16:37:44,826 INFO  [Log] login() PASSED 
+2022-02-07 16:38:05,354 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:38:42,178 INFO  [Log] addToCart() PASSED 
+2022-02-07 16:39:19,751 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[text()='Anında Havale'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 16:40:28,433 INFO  [Log] login() PASSED 
+2022-02-07 16:40:49,018 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:41:25,783 INFO  [Log] addToCart() PASSED 
+2022-02-07 16:42:03,218 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[text()='Anında Havale'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 16:44:15,097 INFO  [Log] login() PASSED 
+2022-02-07 16:44:35,604 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:44:56,089 ERROR [Log] addToCart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"button[data-test-id='product-info-button']"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60930}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 286668aebe3ac7397f6cc27d1cfbec5a
+*** Element info: {Using=css selector, value=button[data-test-id='product-info-button']} 
+2022-02-07 16:45:01,121 ERROR [Log] payment() FAILED with cause : null 
+2022-02-07 16:47:20,548 INFO  [Log] login() PASSED 
+2022-02-07 16:47:41,085 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:48:17,940 INFO  [Log] addToCart() PASSED 
+2022-02-07 16:48:55,512 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[text()='Anında Havale'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 16:49:59,351 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a3260bdd1ff04d71839abab0ba4bd1ef 
+2022-02-07 16:50:19,840 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:50:57,233 ERROR [Log] login() FAILED with cause : Error! ==> expected: <true> but was: <false> 
+2022-02-07 16:51:17,728 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:52:30,200 INFO  [Log] login() PASSED 
+2022-02-07 16:52:50,676 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:53:27,504 INFO  [Log] addToCart() PASSED 
+2022-02-07 16:54:05,199 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[text()='Anında Havale'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 16:54:46,796 ERROR [Log] login() FAILED with cause : Error! ==> expected: <true> but was: <false> 
+2022-02-07 16:55:56,223 INFO  [Log] login() PASSED 
+2022-02-07 16:56:16,656 INFO  [Log] searchProduct() PASSED 
+2022-02-07 16:56:53,634 INFO  [Log] addToCart() PASSED 
+2022-02-07 16:57:40,138 ERROR [Log] payment() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.xpath: //*[text()='Anında Havale'] (tried for 12 second(s) with 500 milliseconds interval) 
+2022-02-07 16:59:14,800 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57085}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 183bd54335616611622a1b6867efc32b 
+2022-02-07 16:59:35,298 INFO  [Log] searchProduct() PASSED 
+2022-02-07 17:00:05,285 ERROR [Log] addToCart() FAILED with cause : null 
+2022-02-07 17:01:04,377 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56676}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a366438d0db4ec08f664308c133d7084 
+2022-02-07 17:01:31,800 ERROR [Log] searchProduct() FAILED with cause : chrome not reachable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56676}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a366438d0db4ec08f664308c133d7084
+*** Element info: {Using=xpath, value=//*[@class="horizontalSortingBar-toggle"]} 
+2022-02-07 17:01:48,870 ERROR [Log] addToCart() FAILED with cause : chrome not reachable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56676}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a366438d0db4ec08f664308c133d7084
+*** Element info: {Using=css selector, value=li.productListContent-item} 
+2022-02-07 17:01:53,880 ERROR [Log] payment() FAILED with cause : null 
+2022-02-07 17:03:36,959 INFO  [Log] login() PASSED 
+2022-02-07 17:03:57,428 INFO  [Log] searchProduct() PASSED 
+2022-02-07 17:04:34,252 INFO  [Log] addToCart() PASSED 
+2022-02-07 17:05:25,394 INFO  [Log] payment() PASSED 
+2022-02-07 18:48:00,173 ERROR [Log] login() FAILED with cause : element not interactable
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61630}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a941503668e900b76108e369a3b9e60f 
+2022-02-07 18:48:42,978 ERROR [Log] login() FAILED with cause : Error! ==> expected: <true> but was: <false> 
+2022-02-07 18:49:03,449 INFO  [Log] searchProduct() PASSED 
+2022-02-07 18:49:13,591 ERROR [Log] addToCart() FAILED with cause : no such window: window was already closed
+  (Session info: chrome=98.0.4758.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61751}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0fba061ede0173e554aa7177f52d623b 
+2022-02-07 18:49:42,966 ERROR [Log] login() FAILED with cause : Error! ==> expected: <true> but was: <false> 
+2022-02-07 18:50:03,459 INFO  [Log] searchProduct() PASSED 
+2022-02-07 18:50:40,122 INFO  [Log] addToCart() PASSED 
+2022-02-07 18:50:55,347 ERROR [Log] payment() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#continue_step_btn"}
+  (Session info: chrome=98.0.4758.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KILLERDEADPOOL', ip: '192.168.72.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.81, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61870}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 420de432f946b4f9246ee11ca719509d
+*** Element info: {Using=css selector, value=#continue_step_btn} 
+2022-02-07 18:53:48,807 INFO  [Log] login() PASSED 
+2022-02-07 18:54:09,350 INFO  [Log] searchProduct() PASSED 
+2022-02-07 18:54:46,129 INFO  [Log] addToCart() PASSED 
+2022-02-07 18:55:52,302 INFO  [Log] payment() PASSED 
